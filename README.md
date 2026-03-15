@@ -10,26 +10,35 @@ Hi there! I'm **Omkar Nayak B** – a curious developer who loves building solut
 
 - 🚀 **Tech Explorer**: Always learning new tools, frameworks, and platforms.  
 - 🧑‍💻 **Problem Solver**: Enjoy tackling **Data Structures & Algorithms** challenges.  
+- 📊 **Data & Analytics Enthusiast**: Exploring **SQL, Pandas, and data visualization**.  
 - 🌐 **Web Dev Enthusiast**: Building interactive web apps using **HTML, CSS, JavaScript**.  
-- 📡 **Networking Learner**: Exploring **TCP/IP, Network Security basics**.  
-- 🎯 **Goal**: To apply my knowledge of **Computer & Communication Engineering** in real-world projects.  
+- ☁️ **Learning Big Data & Cloud Computing** as part of my Computer & Communication Engineering coursework.  
+- 🎯 **Goal**: To apply my knowledge of **Computer & Communication Engineering** in real-world systems and data-driven applications.  
 
 ---
 
 ## ⚡ Tech Stack  
 
-- **Languages**: Java, C, Python  
+- **Languages**: Java, Python, C  
+- **Data & Querying**: SQL, Pandas, NumPy  
+- **Data Visualization**: Tableau  
 - **Web Dev**: HTML, CSS, JavaScript  
 - **Databases**: Oracle, MySQL, MongoDB  
-- **Tools & Platforms**: SQL*Plus, Git, Linux  
-- **Networking**: TCP/IP, Network Security Basics  
+- **Tools & Platforms**: Git, Linux, SQL*Plus  
+- **Networking**: TCP/IP fundamentals  
 
 ---
 
 ## 📂 Projects  
 
-- 🛒 **RetailBuddy Application** (Rails, Oracle SQL, HTML, CSS, JS)  
-  → Smart and scalable retail billing + inventory management system tailored for small and mid-sized businesses.  
+- 📊 **E-commerce BI Dashboard** (Python, Pandas, Power BI)  
+  → Analyzed e-commerce sales data to generate business KPIs and perform RFM customer segmentation. Built an interactive dashboard to visualize revenue trends, product category performance, and geographic sales distribution.  
+
+- 🔐 **MediCrypt – Cryptographic Framework for Healthcare Privacy** (Python, Flask, Blockchain, Cryptography)  
+  → Secure medical data management system integrating homomorphic encryption, searchable encryption, and blockchain-based audit logs for privacy-preserving analytics.  
+
+- 🛒 **RetailBuddy – Retail POS & Inventory Analytics System** (Rails, Oracle SQL, HTML, CSS, JavaScript)  
+  → Retail billing and inventory management platform with SQL-based sales tracking, inventory updates, and reporting features for operational insights.  
 
 ---
 
@@ -44,4 +53,4 @@ Hi there! I'm **Omkar Nayak B** – a curious developer who loves building solut
 ## 🌐 Connect with Me  
 
 - 📧 Email: [omkarnayakb@gmail.com](mailto:omkarnayakb@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/omkar-nayak-a75457299](https://www.linkedin.com/in/omkar-nayak-a75457299)   
+- 🔗 LinkedIn: [linkedin.com/in/omkar-nayak-a75457299](https://www.linkedin.com/in/omkar-nayak-a75457299)  
